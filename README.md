@@ -14,12 +14,12 @@ x install sdrtop
 
 ## Code insight
 
-Total: **173,947** lines of code across **601** files in the top 5 languages.
+Total: **178,199** lines of code across **614** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 171,110 | 8,050 | 14,568 | 535 |
-| Toml | 1,201 | 302 | 193 | 55 |
+| Rust | 175,356 | 8,103 | 14,871 | 548 |
+| Toml | 1,207 | 302 | 193 | 55 |
 | Sh | 962 | 426 | 115 | 9 |
 | C | 570 | 76 | 14 | 1 |
 | CHeader | 103 | 5 | 7 | 1 |
@@ -32,27 +32,27 @@ Total: **173,947** lines of code across **601** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-11-20)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 336 · **Forks**: 21 · **Open issues**: 5 · **Contributors**: 4
+- **Stars**: 351 · **Forks**: 21 · **Open issues**: 5 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 1188
+- **Releases**: 23 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 1201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 7 | 0 | 0 | 0 | 1 | 208 |
-| last60d | 2026-09-22 | 16 | 2 | 0 | 2 | 1 | 491 |
-| 90d | 2026-08-23 | 20 | 16 | 0 | 3 | 1 | 792 |
-| last180d | 2026-05-25 | 23 | 19 | 0 | 4 | 1 | 1166 |
-| 360d | 2025-11-26 | 23 | 19 | 0 | 4 | 1 | 1166 |
-| last720d | 2024-12-01 | 23 | 19 | 0 | 4 | 1 | 1188 |
+| 30d | 2026-10-23 | 7 | 0 | 0 | 0 | 1 | 168 |
+| last60d | 2026-09-23 | 16 | 2 | 0 | 2 | 1 | 406 |
+| 90d | 2026-08-24 | 20 | 16 | 0 | 3 | 1 | 747 |
+| last180d | 2026-05-26 | 23 | 19 | 0 | 4 | 1 | 1046 |
+| 360d | 2025-11-27 | 23 | 19 | 0 | 4 | 1 | 1179 |
+| last720d | 2024-12-02 | 23 | 19 | 0 | 4 | 1 | 1201 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sdrtop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:57:31Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:44:36Z._
