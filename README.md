@@ -14,11 +14,11 @@ x install sdrtop
 
 ## Code insight
 
-Total: **178,199** lines of code across **614** files in the top 5 languages.
+Total: **178,653** lines of code across **615** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 175,356 | 8,103 | 14,871 | 548 |
+| Rust | 175,810 | 8,109 | 14,905 | 549 |
 | Toml | 1,207 | 302 | 193 | 55 |
 | Sh | 962 | 426 | 115 | 9 |
 | C | 570 | 76 | 14 | 1 |
@@ -32,27 +32,27 @@ Total: **178,199** lines of code across **614** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-11-20)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 351 · **Forks**: 21 · **Open issues**: 5 · **Contributors**: 4
+- **Stars**: 357 · **Forks**: 21 · **Open issues**: 5 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 1201
+- **Releases**: 23 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 1202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 7 | 0 | 0 | 0 | 1 | 168 |
-| last60d | 2026-09-23 | 16 | 2 | 0 | 2 | 1 | 406 |
-| 90d | 2026-08-24 | 20 | 16 | 0 | 3 | 1 | 747 |
-| last180d | 2026-05-26 | 23 | 19 | 0 | 4 | 1 | 1046 |
-| 360d | 2025-11-27 | 23 | 19 | 0 | 4 | 1 | 1179 |
-| last720d | 2024-12-02 | 23 | 19 | 0 | 4 | 1 | 1201 |
+| 30d | 2026-10-24 | 6 | 0 | 0 | 0 | 1 | 169 |
+| last60d | 2026-09-24 | 15 | 2 | 0 | 2 | 1 | 407 |
+| 90d | 2026-08-25 | 20 | 16 | 0 | 3 | 1 | 748 |
+| last180d | 2026-05-27 | 23 | 19 | 0 | 4 | 1 | 1047 |
+| 360d | 2025-11-28 | 23 | 19 | 0 | 4 | 1 | 1180 |
+| last720d | 2024-12-03 | 23 | 19 | 0 | 4 | 1 | 1202 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for sdrtop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:44:36Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:58:18Z._
