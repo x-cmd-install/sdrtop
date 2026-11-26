@@ -31,8 +31,8 @@ x install sdrtop
 
 ## 发布
 
-- **最新版本**: `v0.8.0` (2026-11-20)
-- **最近提交**: 2026-11-24
+- **最新版本**: `v0.8.1` (2026-11-25)
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -41,28 +41,28 @@ x install sdrtop
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 19 · **开放 PR**: 0 · **已关闭 issue**: 4 · **开放 issue**: 2 · **提交数**: 1210
+- **发布数**: 24 · **已合并 PR**: 19 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 1211
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 5 | 0 | 0 | 0 | 1 | 177 |
-| last60d | 2026-09-26 | 14 | 2 | 0 | 2 | 2 | 415 |
-| 90d | 2026-08-27 | 20 | 16 | 0 | 3 | 2 | 756 |
-| last180d | 2026-05-29 | 23 | 19 | 0 | 4 | 2 | 1055 |
-| 360d | 2025-11-30 | 23 | 19 | 0 | 4 | 2 | 1188 |
-| last720d | 2024-12-05 | 23 | 19 | 0 | 4 | 2 | 1210 |
+| 30d | 2026-10-27 | 6 | 0 | 0 | 1 | 0 | 178 |
+| last60d | 2026-09-27 | 15 | 2 | 0 | 3 | 1 | 416 |
+| 90d | 2026-08-28 | 21 | 16 | 0 | 4 | 1 | 757 |
+| last180d | 2026-05-30 | 24 | 19 | 0 | 5 | 1 | 1056 |
+| 360d | 2025-12-01 | 24 | 19 | 0 | 5 | 1 | 1189 |
+| last720d | 2024-12-06 | 24 | 19 | 0 | 5 | 1 | 1211 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [install.sh](https://github.com/musithang/sdrtop/releases/download/v0.8.0/install.sh) | 39.8 KiB | `other` |
-| [sdrtop-0.8.0-aarch64-apple-darwin.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.0/sdrtop-0.8.0-aarch64-apple-darwin.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
-| [sdrtop-0.8.0-x86_64-apple-darwin.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.0/sdrtop-0.8.0-x86_64-apple-darwin.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [sdrtop-0.8.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.0/sdrtop-0.8.0-x86_64-unknown-linux-gnu.tar.gz) | 6.9 MiB | `native/linux/x64/glibc` |
-| [SHA256SUMS](https://github.com/musithang/sdrtop/releases/download/v0.8.0/SHA256SUMS) | 401 B | `other` |
+| [install.sh](https://github.com/musithang/sdrtop/releases/download/v0.8.1/install.sh) | 40.0 KiB | `other` |
+| [sdrtop-0.8.1-aarch64-apple-darwin.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.1/sdrtop-0.8.1-aarch64-apple-darwin.tar.gz) | 11.5 MiB | `native/darwin/arm64` |
+| [sdrtop-0.8.1-x86_64-apple-darwin.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.1/sdrtop-0.8.1-x86_64-apple-darwin.tar.gz) | 12.7 MiB | `native/darwin/x64` |
+| [sdrtop-0.8.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/musithang/sdrtop/releases/download/v0.8.1/sdrtop-0.8.1-x86_64-unknown-linux-gnu.tar.gz) | 12.8 MiB | `native/linux/x64/glibc` |
+| [SHA256SUMS](https://github.com/musithang/sdrtop/releases/download/v0.8.1/SHA256SUMS) | 401 B | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ sdrtop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T10:08:47Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:57:07Z._
