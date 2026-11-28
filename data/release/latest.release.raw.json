@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12086475,
       "digest": "sha256:beb4bf4ed03c615af7c2e2cac27e21f6514cd2ee14f0844e59802bf840763cab",
-      "download_count": 3,
+      "download_count": 13,
       "created_at": "2026-11-25T17:39:53Z",
       "updated_at": "2026-11-25T17:39:54Z",
       "browser_download_url": "https://github.com/musithang/sdrtop/releases/download/v0.8.1/sdrtop-0.8.1-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13471342,
       "digest": "sha256:ab345a250f23790cc8cbd2c9e8fe08e9011ad623e7488399d042e773166045cc",
-      "download_count": 20,
+      "download_count": 28,
       "created_at": "2026-11-25T17:39:53Z",
       "updated_at": "2026-11-25T17:39:54Z",
       "browser_download_url": "https://github.com/musithang/sdrtop/releases/download/v0.8.1/sdrtop-0.8.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 401,
       "digest": "sha256:98c0bd34d1997974f385c05fc3c3c1feef829b0496cdb9def0d7755cfddd2b13",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-11-25T17:39:53Z",
       "updated_at": "2026-11-25T17:39:53Z",
       "browser_download_url": "https://github.com/musithang/sdrtop/releases/download/v0.8.1/SHA256SUMS"

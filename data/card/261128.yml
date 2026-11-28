@@ -1,0 +1,133 @@
+about:
+  description: "Terminal monitor for SDR hardware - written in Rust. Early development."
+  license: GPL-3.0
+  homepage: 
+  head: 95ec0aa
+  archived: false
+  latestVersion: "v0.8.1"
+  latestRelease: "v0.8.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:11:19Z
+timeline:
+  created: 2026-05-27
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-25
+  lastRelease: 2026-11-25
+  lastPrerelease: 
+popularity:
+  star: 402
+  watcher: 2
+  fork: 25
+  release: 24
+  contributor: 4
+  pullRequest: 21
+  issue: 6
+language:
+  Rust: 9257901
+  Shell: 66074
+  C: 33187
+  Dockerfile: 3096
+totalBytes: 9360258
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 192
+  last60d:
+    since: 2026-09-29
+    release: 14
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 430
+  last90d:
+    since: 2026-08-30
+    release: 19
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 4
+    openIssue: 1
+    commit: 771
+  last180d:
+    since: 2026-06-01
+    release: 24
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 1070
+  last360d:
+    since: 2025-12-03
+    release: 24
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 1203
+  last720d:
+    since: 2024-12-08
+    release: 24
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 1225
+total:
+  release: 24
+  mergedPR: 19
+  openPR: 0
+  closedIssue: 5
+  openIssue: 1
+  commit: 1225
+---
+path: /home/runner/.x-repo/github.com/musithang/sdrtop
+collectedAt: 2026-11-28T09:11:27Z
+loc:
+  Rust:
+    code: 182585
+    comments: 8287
+    blanks: 15443
+    files: 570
+  Toml:
+    code: 1229
+    comments: 302
+    blanks: 199
+    files: 55
+  Sh:
+    code: 968
+    comments: 426
+    blanks: 115
+    files: 9
+  C:
+    code: 570
+    comments: 76
+    blanks: 14
+    files: 1
+  CHeader:
+    code: 103
+    comments: 5
+    blanks: 7
+    files: 1
+  Xml:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 10986
+    blanks: 2989
+    files: 65
+total:
+  code: 185591
+  comments: 53183
+  blanks: 21163
+  files: 702
+---
+
+---
